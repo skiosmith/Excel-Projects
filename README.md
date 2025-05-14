@@ -1,4 +1,4 @@
-![Excel Projects Banner](.assets/excelprojectsbanner.png)
+![Excel Projects Banner](.assets/excelprojectsbanner.PNG)
 
 # Excel Projects Portfolio
 
