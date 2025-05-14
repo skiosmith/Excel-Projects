@@ -43,7 +43,7 @@ This table displays employees' hourly wages, hours worked, and their correspondi
 ### 2. Formulas View
 This view shows the underlying formulas used to calculate pay and other values, including absolute referencing.
 
-![Formulas View](payroll/.assets/payroll_formulas_view.png)
+![Formulas View](.assets/payroll_formulas_view.png)
 
 ---
 
