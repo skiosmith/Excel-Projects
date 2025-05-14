@@ -2,7 +2,7 @@
 
 # Excel Projects Portfolio
 
-Welcome to my Excel Projects Portfolio — a curated collection of practical projects built in Microsoft Excel. These projects demonstrate my ability to use Excel for data analysis, automation, and business problem-solving.
+Welcome to my Excel Projects Portfolio — a curated collection of practical projects built in Microsoft Excel. These projects highlight my skills in advanced spreadsheet design, formula logic, data visualization, and automation using Excel's built-in features.
 
 Each folder contains a real-world scenario, ranging from payroll calculations to performance grading systems. These projects apply key Excel functions like conditional logic, absolute referencing, and data visualization to solve tasks efficiently and accurately.
 
@@ -19,6 +19,7 @@ A complete payroll management system built in Excel.
 - Used absolute referencing for formula consistency across multiple days.
 - Generated summary statistics: `MAX`, `MIN`, `AVERAGE`, and `TOTAL`
 - Scaled for the entire month of January.
+- Screenshots and documentation included.
 
 [See full project →](payroll/README.md)
 
@@ -46,6 +47,14 @@ An employee grading system with performance tracking and chart visualizations.
 - Summary statistics
 - Data visualization using charts
 - Spreadsheet design and layout optimization
+
+---
+
+## How to View
+Each folder contains:
+- The Excel file (`.xlsx`)
+- A project-specific `README.md` with details and screenshots.
+- A `.assets/` folder containing visual resources.
 
 ---
 
