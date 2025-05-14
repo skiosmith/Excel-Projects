@@ -27,3 +27,34 @@ The project progressed in stages, using key Excel functions and techniques:
 - Excel formula automation and scaling.
 
 This project demonstrates how Excel can be used to create dynamic and functional payroll systems for real-world use.
+
+---
+
+## Screenshots
+
+### 1. Main Payroll Table
+This table displays employees' hourly wages, hours worked, and their corresponding pay based on the formula:  
+`Pay = Hourly Wage × Hours Worked`
+
+![Main Payroll Table](payroll/.assets/payroll_main_table.png)
+
+---
+
+### 2. Formulas View
+This view shows the underlying formulas used to calculate pay and other values, including absolute referencing.
+
+![Formulas View](payroll/.assets/payroll_formulas_view.png)
+
+---
+
+### 3. Overtime Logic
+A focused section showing the use of `IF` statements to calculate overtime hours and bonuses.
+
+![Overtime Logic](payroll/.assets/payroll_overtime_logic.png)
+
+---
+
+### 4. January Worksheet Summary
+This shows daily pay calculations and how the logic was scaled across the entire month using absolute cell referencing.
+
+![January Worksheet Summary](payroll/.assets/payroll_january_summary.png)
