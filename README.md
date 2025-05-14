@@ -1,4 +1,4 @@
-![Excel Projects Banner](https://img.shields.io/badge/Excel--Based--Projects-Data%20Analysis%20%7C%20Payroll%20%7C%20Automation-blue?style=for-the-badge&logo=microsoft-excel)
+![Excel Projects Banner](.assets/excelprojectsbanner.png)
 
 # Excel Projects Portfolio
 
