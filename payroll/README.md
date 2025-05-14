@@ -36,7 +36,7 @@ This project demonstrates how Excel can be used to create dynamic and functional
 This table displays employees' hourly wages, hours worked, and their corresponding pay based on the formula:  
 `Pay = Hourly Wage × Hours Worked`
 
-![Main Payroll Table](payroll/.assets/payroll_main_table.png)
+![Main Payroll Table](.assets/payroll_main_table.png)
 
 ---
 
@@ -50,11 +50,11 @@ This view shows the underlying formulas used to calculate pay and other values, 
 ### 3. Overtime Logic
 A focused section showing the use of `IF` statements to calculate overtime hours and bonuses.
 
-![Overtime Logic](payroll/.assets/payroll_overtime_logic.png)
+![Overtime Logic](.assets/payroll_overtime_logic.png)
 
 ---
 
 ### 4. January Worksheet Summary
 This shows daily pay calculations and how the logic was scaled across the entire month using absolute cell referencing.
 
-![January Worksheet Summary](payroll/.assets/payroll_january_summary.png)
+![January Worksheet Summary](.assets/payroll_january_summary.png)
