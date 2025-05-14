@@ -1,5 +1,6 @@
 ![Excel Projects Banner](https://img.shields.io/badge/Excel--Based--Projects-Data%20Analysis%20%7C%20Payroll%20%7C%20Automation-blue?style=for-the-badge&logo=microsoft-excel)
-Added project banner to READMME.
+
+Added project banner to README.
 
 # Excel-Projects
 A portfolio of Excel-based projects demonstrating skills in data analysis, financial tracking, reporting and spreadsheet automation.
