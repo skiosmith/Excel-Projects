@@ -1,40 +1,61 @@
 ![Excel Projects Banner](https://img.shields.io/badge/Excel--Based--Projects-Data%20Analysis%20%7C%20Payroll%20%7C%20Automation-blue?style=for-the-badge&logo=microsoft-excel)
 
-# Excel-Projects
-A portfolio of Excel-based projects demonstrating skills in data analysis, financial tracking, reporting and spreadsheet automation.
+# Excel Projects Portfolio
 
-## Project Categories
+Welcome to my Excel Projects Portfolio — a curated collection of practical projects built in Microsoft Excel. These projects demonstrate my ability to use Excel for data analysis, automation, and business problem-solving.
 
-### 1. Payroll Records
-**Folder:** `/payroll/`
-
-- **[mr_bentil_payroll_january.xlsx](payroll/mr_bentil_payroll_january.xlsx)**  
-  This project calculates employee payroll for the month of January.
-  
-  It includes:
-  - Input of hourly wages and hours worked.
-  - Basic pay computation using: `hourly wage * hours worked`
-  - Use of built-in Excel functions to calculate:
-    - **Maximum**, **Minimum**, **Average**, and **Total** values.
-  
-  - Overtime calculations:
-    - IF statements to determine overtime hours (over 40 hrs/week).
-    - Overtime bonuses and total pay.
-    
-  - For the full month:
-    - Absolute cell referencing for consistent daily calculations.
-    - IF logic for conditional overtime and bonuses.
+Each folder contains a real-world scenario, ranging from payroll calculations to performance grading systems. These projects apply key Excel functions like conditional logic, absolute referencing, and data visualization to solve tasks efficiently and accurately.
 
 ---
 
-## Tools & Techniques Used
-- Microsoft Excel.
-- Formulas: `IF`, `MAX`, `MIN`, `AVERAGE`, `SUM`
-- Absolute cell referencing.
-- Conditional logic and payroll modeling.
+## Projects
+
+### 1. Payroll Project
+**Folder:** [`/payroll/`](payroll)  
+A complete payroll management system built in Excel.
+
+- Calculated employee pay using `Hourly Wage × Hours Worked`
+- Applied `IF` statements to compute overtime hours and bonuses.
+- Used absolute referencing for formula consistency across multiple days.
+- Generated summary statistics: `MAX`, `MIN`, `AVERAGE`, and `TOTAL`
+- Scaled for the entire month of January.
+
+[See full project →](payroll/README.md)
 
 ---
 
-## Author
-**Skiosmith**  
-[github.com/skiosmith](https://github.com/skiosmith)
+### 2. Gradebook Project
+**Folder:** [`/gradebook/`](gradebook)  
+An employee grading system with performance tracking and chart visualizations.
+
+- Used orientation to rotate column headers.
+- Applied conditional formatting (Highlight Rules + Icon Sets).
+- Used the `OR` function to determine termination conditions.
+- Created charts to visualize test results and trends.
+- Identified top and bottom performers at a glance.
+
+[See full project →](gradebook/README.md)
+
+---
+
+## Skills Demonstrated
+
+- Excel formulas: `IF`, `OR`, `AND`
+- Absolute and relative cell referencing
+- Conditional formatting
+- Summary statistics
+- Data visualization using charts
+- Spreadsheet design and layout optimization
+
+---
+
+## About
+
+**Author:** [@skiosmith](https://github.com/skiosmith)  
+**Focus Areas:** Excel automation, data reporting, and real-world business analysis using Microsoft Excel.
+
+This repository is actively maintained. More Excel projects and enhancements (including screenshots and advanced formula breakdowns) will be added soon.
+
+---
+
+> Feel free to explore the projects, leave feedback, or connect with me on GitHub!
