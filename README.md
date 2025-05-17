@@ -60,7 +60,13 @@ Each folder contains:
 
 ### 3. [Sales Database Project](sales-database/README.md)
 
-A data-driven sales tracking tool that applies core Excel techniques including pivot tables, conditional logic, and data visualization.
+A data-driven solution to manage and analyze sales records. Includes structured cleanup using text functions, conditional logic for totals, and pivot tables and charts for business insights.
+
+**Key Features:**
+- Text to Columns for splitting combined entries.
+- `IF` and `SUMIF` for sales logic and conditions.
+- Dynamic sorting, filtering, and formatting.
+- Pivot tables and pie charts for visualization.
 
 > Navigate to the project folder: [`/sales-database`](sales-database/)
 
