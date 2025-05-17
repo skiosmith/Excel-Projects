@@ -58,6 +58,14 @@ Each folder contains:
 
 ---
 
+### 3. [Sales Database Project](sales-database/README.md)
+
+A data-driven sales tracking tool that applies core Excel techniques including pivot tables, conditional logic, and data visualization.
+
+> Navigate to the project folder: [`/sales-database`](sales-database/)
+
+---
+
 ## About
 
 **Author:** [@skiosmith](https://github.com/skiosmith)  
