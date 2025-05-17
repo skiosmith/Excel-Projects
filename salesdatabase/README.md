@@ -35,11 +35,6 @@ This project demonstrates Excel techniques for cleaning, organizing, analyzing, 
 ### 📈 Pivot Table & Chart
 <img src=".assets/sales_pivot_chart.png" alt="Pivot Table and Chart" width="800"/>
 
----
-
-## 📁 File
-
-- `bentils_sales_database.xlsx`
 
 ---
 
