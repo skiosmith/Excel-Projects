@@ -58,17 +58,24 @@ Each folder contains:
 
 ---
 
-### 3. [Sales Database Project](sales-database/README.md)
-
+### 3. Sales Database Project
+**Folder:** [`/salesdatabase/`](sales_database)  
 A data-driven solution to manage and analyze sales records. Includes structured cleanup using text functions, conditional logic for totals, and pivot tables and charts for business insights.
 
-**Key Features:**
-- Text to Columns for splitting combined entries.
-- `IF` and `SUMIF` for sales logic and conditions.
-- Dynamic sorting, filtering, and formatting.
-- Pivot tables and pie charts for visualization.
+- Text to Columns for splitting combined entries
+- `IF` and `SUMIF` for sales logic and conditions
+- Dynamic sorting, filtering, and formatting
+- Pivot tables and pie charts for visualization
 
-> Navigate to the project folder: [`/sales-database`](sales-database/)
+[See full project →](salesdatabase/README.md)
+
+---
+
+## How to View
+Each folder contains:
+- The Excel file (`.xlsx`)
+- A project-specific `README.md` with details and screenshots.
+- A `.assets/` folder containing visual resources.
 
 ---
 
